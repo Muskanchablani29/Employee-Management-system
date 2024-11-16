@@ -153,7 +153,7 @@ int main()
 	start:
 	a=0;
 	int p;
-	cout<<"\t\t\t\t\t"<<"\n\n\n\nEmployee Management System";
+	cout<<"\t\t\t\t\t"<<"\n\n\n\n\n\nEmployee Management System";
 	cout<<"\t\t\t\t\t\t"<<"\n\n Enter Your Password :";
 	cin>>p;
 	if(p==1234)
